@@ -1,0 +1,2 @@
+# BufferSerial
+ArduinoのSerial通信をMbedでも使えるようにするライブラリ
